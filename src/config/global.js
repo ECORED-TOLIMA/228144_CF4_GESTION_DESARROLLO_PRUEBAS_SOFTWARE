@@ -181,12 +181,12 @@ export default {
     {
       termino: 'Documento de visión',
       significado:
-        'Documento de alto nivel que describe la visión, scope y beneficios esperados de un proyecto propuesto.',
+        'Documento de alto nivel que describe la visión, <em>scope</em> y beneficios esperados de un proyecto propuesto.',
     },
     {
       termino: 'Elicitación',
       significado:
-        'Proceso de descubrimiento, extracción y comunicación de requisitos de los <em>stakeholders</em> mediante entrevistas, workshops y análisis.',
+        'Proceso de descubrimiento, extracción y comunicación de requisitos de los <em>stakeholders</em> mediante entrevistas, <em>workshops</em> y análisis.',
     },
     {
       termino: 'Encriptación',

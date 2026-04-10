@@ -29,7 +29,7 @@
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
-          span Evolución del estándar de requisitos de <em>software</em>
+          span Actualización estándar IEEE
       .row.justify-content-center
         .col-10
           figure.desktop

@@ -420,7 +420,7 @@
                   .col.col-auto.mb-4
                     .tarjeta.tarjeta--blanca.px-3.py-2
                       p.mb-0.text-bold.text-center(data-aos="fade-down") ¿Cuál es la ventaja de modelar requisitos gráficamente?
-                h5.mb-4 La precisión.
+                h5.mb-4 La precisión
                 p.mb-0(data-aos="fade-down") Un diagrama de casos de uso reduce significativamente la ambigüedad, ya que define con claridad si un actor participa o no en una interacción y si un caso de uso está o no incluido en otro. Además, estos modelos pueden analizarse de manera formal mediante herramientas automáticas que permiten detectar inconsistencias. De este modo, un requisito representado en un diagrama de clases no puede describirse de forma contradictoria en otro diagrama, garantizando la coherencia y uniformidad del modelo.
               .col.col-lg-4.col-10.order-lg-2.order-1.p-4
                 figure
@@ -619,7 +619,7 @@
           .row
             .col.col-auto.mb-3
             .col.col-12.mb-3
-              p.mb-0(data-aos="fade-down") EL siguiente es un ejemplo de extracción de casos de uso
+              p.mb-0(data-aos="fade-down") El siguiente es un ejemplo de extracción de casos de uso
             .col.col-12.mb-3
               .cajon.cajon.C04.p-4
                 p.mb-0(data-aos="fade-down") Texto en lenguaje natural:
@@ -686,7 +686,7 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Inicio / fin (terminal)
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Marca el punto de inicio o finalización del proceso. Siempre hay uno de inicio y al menos uno de fin.
               tr
-                td(data-aos="fade-down") rectángulo
+                td(data-aos="fade-down") Rectángulo
                 td(data-aos="fade-down") Proceso / acción
                 td(data-aos="fade-down") Representa una tarea, operación o acción que se ejecuta. Ejemplo: “registrar usuario”, “calcular total”.
               tr
@@ -702,7 +702,7 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Flujo de control
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Indica la dirección del flujo entre los pasos del proceso.
               tr
-                td(data-aos="fade-down") rectángulo doble borde
+                td(data-aos="fade-down") Rectángulo doble borde
                 td(data-aos="fade-down") Subproceso
                 td(data-aos="fade-down") Indica que ese paso llama a otro proceso definido en un diagrama separado.
     p.text-center.mb-4(data-aos="fade-down") El siguiente ejemplo de diagrama representa un el flujo mediante unos pasos secuenciales:
@@ -906,8 +906,8 @@
           .col-lg-auto.col-9.titulo01(style="z-index:1")
             .p-2
               h3.mb-0.ms-3 D. Diagramas de secuencia
-    p(data-aos="fade-down") Son el artefacto central del estándar UML para representar la estructura estática de un sistema. Muestran las clases (tipos de objetos), sus atributos (datos que almacenan), sus métodos (acciones que realizan) y las relaciones entre ellas. Son la base para el diseño de la base de datos y la arquitectura orientada a objetos del sistema. Los desarrolladores usan estos diagramas directamente para implementar el código.
-    p.mb-4(data-aos="fade-down") A continuación, se presenta una tabla con la descripción de los elementos del diagrama de clases:
+    p(data-aos="fade-down") Son diagramas de comportamiento UML que muestran como los diferentes componentes (objetos, clases, actores o sistemas) de una aplicación interactúan entre si a lo largo del tiempo para realizar una tarea especifica. El eje horizontal representa los participantes y el eje vertical representa el tiempo (fluye hacia abajo). Son especialmente útiles para documentar escenarios de casos de uso, describiendo paso a paso los mensajes que se intercambian entre componentes.
+    p.mb-4(data-aos="fade-down") A continuación, se presenta una tabla que describe los elementos del diagrama de secuencia:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido

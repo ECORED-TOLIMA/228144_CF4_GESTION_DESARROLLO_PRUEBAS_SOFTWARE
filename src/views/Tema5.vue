@@ -62,31 +62,35 @@
             figure
               img(src="@/assets/curso/tema5/img07.svg", alt="alt").img80.m-auto
           p Como usuario de una aplicación móvil, se requiere que el sistema funcione adecuadamente con conexiones lentas, con el fin de permitir el acceso en condiciones de señal limitada.
+    .row.justify-content-center.mb-4
+      .col.col-auto
+        .tarjeta.tarjeta--C09.px-3.py-2.order-lg-2.order-2
+          p.mb-0.text-center.text-white(data-aos="fade-down") ¿Qué hace que las historias de usuario sean poderosas? 
     LineaTiempoE.color-acento-contenido.mb-4
       .row(titulo="Primero")
         .col-lg-8.mb-4.mb-lg-0.order-lg-2.order-2
-          h4(data-aos="fade-down") El foco en el usuario.
+          h4(data-aos="fade-down") El foco en el usuario
           p.mb-0(data-aos="fade-down") No es una lista de características técnicas, es una expresión de valor desde la perspectiva de quien va a usar el sistema. El beneficio final es claro.
         .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/tema5/img08.svg', alt='Imagen decorativa')
       .row(titulo="Segundo")
         .col-lg-8.mb-4.mb-lg-0.order-lg-2.order-2
-          h4(data-aos="fade-down") El tamaño pequeño.
+          h4(data-aos="fade-down") El tamaño pequeño
           p.mb-0(data-aos="fade-down") Una historia de usuario típicamente representa una cantidad de trabajo que puede ser completada en una semana de desarrollo por un pequeño equipo. Esto hace que sean manejables, estimables y reducen el riesgo de estimaciones incorrectas.
         .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/tema5/img09.svg', alt='Imagen decorativa')
       .row(titulo="Tercero")
         .col-lg-8.mb-4.mb-lg-0.order-lg-2.order-2
-          h4(data-aos="fade-down") Las historias de usuario enfatizan la conversación.
+          h4(data-aos="fade-down") Las historias de usuario enfatizan la conversación
           p.mb-0(data-aos="fade-down") El texto escrito es deliberadamente incompleto. Es un recordatorio para que los desarrolladores y el cliente tengan una conversación. "Como usuario desea buscar productos" es incompleto. ¿Por qué campos?, ¿búsqueda de texto libre o búsqueda facetada?, ¿autocompletación?, ¿corrección de errores tipográficos? Esas conversaciones surgen durante el desarrollo, lo que permite que el cliente refine y aclare sus necesidades exactas basado en la retroalimentación visual.
         .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/tema5/img10.svg', alt='Imagen decorativa')
       .row(titulo="Cuarto")
         .col-lg-8.mb-4.mb-lg-0.order-lg-2.order-2
-          h4(data-aos="fade-down") Las historias de usuario son ideales para trabajo iterativo.
+          h4(data-aos="fade-down") Las historias de usuario son ideales para trabajo iterativo
           p.mb-0.mb-0(data-aos="fade-down") En un proyecto ágil, no se debe intentar completar todo el sistema, pues cada iteración (típicamente de 1-4 semanas) entrega un conjunto de historias de usuario completadas. El cliente ve progreso constantemente, las historias completadas se cierran y se hacen más historias y finalmente, el proyecto avanza gradualmente, con ajustes basados en lo que se aprende.
         .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
           figure
