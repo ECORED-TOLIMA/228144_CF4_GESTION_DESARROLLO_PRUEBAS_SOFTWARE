@@ -17,9 +17,9 @@
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p.mb-4(data-aos="fade-down") Cuando se presenta una solicitud de cambio, esta debe documentar claramente qué se solicita, por qué se requiere, quién la propone y en qué plazo se necesita. Idealmente, esta información debe registrarse por escrito y no limitarse a acuerdos verbales, ya que la informalidad suele generar malentendidos y confusión.
-        .row.justify-content-center.align-items-stretch.mb-4.g-0
+        .row.justify-content-center.mb-4.g-0
           .col-lg-7.col-12.order-lg-1.order-2
-            .cajon.C05.p-4.h-100.w-100
+            .cajon.C05.p-4.h-100.d-flex.flex-column.justify-content-center
               p Una vez documentada, la solicitud es evaluada por un equipo responsable, que analiza qué requisitos se ven afectados, qué componentes de diseño o código deben modificarse, cuál es el esfuerzo estimado, el impacto en el cronograma y los riesgos asociados.
               p.mb-0 Con base en este análisis, se toma una decisión debidamente documentada. La solicitud puede aprobarse, rechazarse o postergarse para una fase posterior. En algunos casos, por ejemplo, un cambio puede implicar un incremento significativo del presupuesto con un beneficio limitado, lo que justifica aplazarlo hasta que el cliente confirme su disposición a asumir el costo adicional.
           .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4

@@ -30,7 +30,7 @@
                   .tarjeta.clr--pink.p-4.rounded-0.h-100
                     .tarjeta.bg-white.p-4
                       #t_1_4.titulo-segundo.color-acento-contenido.mb-4(data-aos="flip-up")
-                        h2 Pódcast. Lenguaje natural.
+                        h4 Pódcast. Lenguaje natural.
                       TarjetaAudio.color-acento-botones.mb-3(
                       texto="Pódcast"
                       :audio="require('@/assets/curso/audio/Podcast_CF02_33110233.mp3')"
@@ -147,11 +147,11 @@
       .col-12
         .px-5.py-4
           .row.align-items-center.BG06(data-aos="fade-down")
-            .col-lg-4.d-none.d-lg-block.py-3.px-5
+            .col-lg-4.d-none.d-lg-block.py-0.px-5
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/tema2/img07.png", alt="Imagen decorativa")
-            .col-lg-8.p-5
-              SlyderF.custom.color-acento-botones.p-4(columnas="col-lg-6 col-xl-6")
+            .col-lg-8.px-4.py-0
+              SlyderF.custom.color-acento-botones.px-4.py-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
@@ -466,11 +466,11 @@
       .col-12
         .px-5.py-4
           .row.align-items-center.BG06(data-aos="fade-down")
-            .col-lg-4.d-none.d-lg-block.py-3.px-4
+            .col-lg-4.d-none.d-lg-block.py-0.px-4
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/tema2/img25.png", alt="Imagen decorativa")
-            .col-lg-8.p-5
-              SlyderF.custom.color-acento-botones.p-4(columnas="col-lg-6 col-xl-6")
+            .col-lg-8.px-5.py-0
+              SlyderF.custom.color-acento-botones.px-4.py-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
@@ -747,7 +747,7 @@
             .cajon.cajon.py-2.px-3(style="background-color: #62249E")
               p.text-center.mb-0.text-white FIN  Préstamo registrado exitosamente
     .row.justify-content-center.align-items-stretch.mb-4.g-0
-      .col.col-12.order-lg-2.order-2
+      .col.col-lg-10.col-12.order-lg-2.order-2
         .cajon.C02.p-4.h-100.w-100
           p.text-bold(data-aos="fade-down") ¿Cuándo usar un diagrama de flujo?
           ul.lista-ul.mb-0(data-aos="fade-down") 
@@ -763,7 +763,7 @@
             li.mb-0
               i.fas.fa-circle(style="top: 8px")
               p.mb-0 Para comunicar algoritmos a desarrolladores antes de la codificación.
-      .col.col-12.order-lg-1.order-1.mb-lg-0.mb-4
+      .col.col-lg-10.col-12.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/tema2/img40.png', alt='Imagen decorativa')
     .row.justify-content-center.mb-4
@@ -857,11 +857,11 @@
       .col-12
         .px-5.py-4
           .row.align-items-center.BG06(data-aos="fade-down")
-            .col-lg-4.d-none.d-lg-block.py-3.px-4
+            .col-lg-4.d-none.d-lg-block.py-0.px-4
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/tema2/img43.png", alt="Imagen decorativa")
-            .col-lg-8.p-5
-              SlyderF.custom.color-acento-botones.p-4(columnas="col-lg-6 col-xl-4")
+            .col-lg-8.px-5.py-0
+              SlyderF.custom.color-acento-botones.px-4.py-0(columnas="col-lg-6 col-xl-4")
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8

@@ -169,7 +169,7 @@
           img(src='@/assets/curso/tema6/img02.svg', alt='Imagen decorativa')
     .row.justify-content-center.mb-4
       .col.col-lg-8.col-12
-        .cajon.cajon.C01.p-3
+        .cajon.cajon.C02.p-3
           .row.justify-content-center.align-items-center
             .col.col-lg-9.order-lg-2.order-2
               p(data-aos="fade-down") Recuerde: si un requisito falla en cualquiera de estos puntos, debería ser devuelto al remitente para refinamiento antes de ser aceptado en la especificación.
@@ -181,12 +181,12 @@
       .col-12
         .px-5.py-4
           .row.align-items-center.BG06(data-aos="fade-down")
-            .col-lg-4.d-none.d-lg-block.py-3.px-5
+            .col-lg-4.d-none.d-lg-block.py-0.px-5
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/tema6/img14.png", alt="Imagen decorativa")
-            .col-lg-8.p-5
-              SlyderF.custom.color-acento-botones.p-4(columnas="col-lg-6 col-xl-4")
-                .tarjeta.tarjeta--slyder.p-4
+            .col-lg-8.px-5.py-0
+              SlyderF.custom.color-acento-botones.px-4.py-0(columnas="col-lg-6 col-xl-4")
+                .tarjeta.tarjeta--slyder.px-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema6/img04.svg", alt="Imagen decorativa").img100.m-auto

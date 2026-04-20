@@ -182,7 +182,7 @@
           img(src='@/assets/curso/tema5/img13.png', alt='Imagen decorativa')
     .row.justify-content-center.mb-0
       .col.col-lg-8.col-12
-        .cajon.cajon.C01.p-3
+        .cajon.cajon.C02.p-3
           .row.justify-content-center.align-items-center
             .col.col-lg-9.order-lg-2.order-2
               p.mb-0(data-aos="fade-down") Si una historia no cumple con estos criterios, probablemente necesita ser refinada o dividida en historias más pequeñas.
