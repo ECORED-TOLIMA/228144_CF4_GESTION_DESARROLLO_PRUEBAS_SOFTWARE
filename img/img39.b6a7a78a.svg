@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="Grupo_1180183" data-name="Grupo 1180183" transform="translate(-1258.711 -10958)">
+    <path id="Trazado_999715" data-name="Trazado 999715" d="M0,0H65V65H0Z" transform="translate(1258.711 10958)" fill="#19538d"/>
+    <g id="computadora_4_" data-name="computadora (4)" transform="translate(1270.711 10975)">
+      <path id="Trazado_1000378" data-name="Trazado 1000378" d="M0,120H7.249v2.364H0Zm0,0" transform="translate(0 -110.545)" fill="#fff"/>
+      <path id="Trazado_1000379" data-name="Trazado 1000379" d="M7.249,30H1.182A1.182,1.182,0,0,0,0,31.182v3.546H7.249Zm0,0" transform="translate(0 -27.636)" fill="#fff"/>
+      <path id="Trazado_1000380" data-name="Trazado 1000380" d="M7.249,187.091V180H0v15.364a1.182,1.182,0,0,0,1.182,1.182H13a1.182,1.182,0,0,0,1.182-1.182v-3.546H11.976A4.733,4.733,0,0,1,7.249,187.091Zm-.158,7.091A1.182,1.182,0,1,1,8.273,193,1.182,1.182,0,0,1,7.091,194.183Zm0,0" transform="translate(0 -165.818)" fill="#fff"/>
+      <path id="Trazado_1000381" data-name="Trazado 1000381" d="M150.365,0h-26A2.366,2.366,0,0,0,122,2.364v18.91a2.366,2.366,0,0,0,2.364,2.364h8.273v4.727h-2.364a1.182,1.182,0,0,0,0,2.364h14.182a1.182,1.182,0,0,0,0-2.364h-2.364V23.637h8.273a2.366,2.366,0,0,0,2.364-2.364V2.364A2.366,2.366,0,0,0,150.365,0Zm0,0" transform="translate(-112.388)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

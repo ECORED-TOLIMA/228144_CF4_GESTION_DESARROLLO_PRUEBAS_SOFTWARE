@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <g id="Grupo_1180068" data-name="Grupo 1180068" transform="translate(-751.711 -718)">
+    <circle id="Elipse_13689" data-name="Elipse 13689" cx="45" cy="45" r="45" transform="translate(751.711 718)" fill="#fff"/>
+    <g id="banca-en-linea" transform="translate(762.711 723.997)">
+      <path id="Trazado_1000034" data-name="Trazado 1000034" d="M13,32H51.768V53.664H13Z" transform="translate(1.122 2.664)" fill="#7a93a0"/>
+      <g id="Grupo_1180070" data-name="Grupo 1180070" transform="translate(10.701 14.137)">
+        <path id="Trazado_1000035" data-name="Trazado 1000035" d="M53.048,24.251v7.993H12V24.251L32.011,14.126a1.09,1.09,0,0,1,1.026,0Z" transform="translate(-9.72 -13.997)" fill="#b0ccdd"/>
+        <path id="Trazado_1000036" data-name="Trazado 1000036" d="M10,36h4.561V53.1H10Z" transform="translate(-10 -10.912)" fill="#b0ccdd"/>
+        <path id="Trazado_1000037" data-name="Trazado 1000037" d="M22,36h4.561V53.1H22Z" transform="translate(-8.317 -10.912)" fill="#b0ccdd"/>
+        <path id="Trazado_1000038" data-name="Trazado 1000038" d="M34,36h4.561V53.1H34Z" transform="translate(-6.634 -10.912)" fill="#b0ccdd"/>
+        <path id="Trazado_1000039" data-name="Trazado 1000039" d="M46,36h4.561V53.1H46Z" transform="translate(-4.952 -10.912)" fill="#b0ccdd"/>
+      </g>
+      <path id="Trazado_1000040" data-name="Trazado 1000040" d="M9,32h6.841v4.561A1.14,1.14,0,0,1,14.7,37.7H10.14A1.14,1.14,0,0,1,9,36.561Z" transform="translate(0.561 2.664)" fill="#9ebbce"/>
+      <path id="Trazado_1000041" data-name="Trazado 1000041" d="M21,32h6.841v4.561A1.14,1.14,0,0,1,26.7,37.7H22.14A1.14,1.14,0,0,1,21,36.561Z" transform="translate(2.244 2.664)" fill="#9ebbce"/>
+      <path id="Trazado_1000042" data-name="Trazado 1000042" d="M33,32h6.841v4.561A1.14,1.14,0,0,1,38.7,37.7H34.14A1.14,1.14,0,0,1,33,36.561Z" transform="translate(3.927 2.664)" fill="#9ebbce"/>
+      <path id="Trazado_1000043" data-name="Trazado 1000043" d="M45,32h6.841v4.561A1.14,1.14,0,0,1,50.7,37.7H46.14A1.14,1.14,0,0,1,45,36.561Z" transform="translate(5.609 2.664)" fill="#9ebbce"/>
+      <path id="Trazado_1000044" data-name="Trazado 1000044" d="M58.17,54.561V51.14A1.14,1.14,0,0,0,57.03,50H9.14A1.14,1.14,0,0,0,8,51.14v3.421Z" transform="translate(0.421 5.188)" fill="#bfdbf0"/>
+      <rect id="Rectángulo_456909" data-name="Rectángulo 456909" width="52" height="5" rx="1" transform="translate(7.506 30.945)" fill="#bfdbf0"/>
+      <ellipse id="Elipse_13692" data-name="Elipse 13692" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(30.506 19.945)" fill="#fff"/>
+      <path id="Trazado_1000045" data-name="Trazado 1000045" d="M55.75,26.682a1.14,1.14,0,0,1-.513-.122L32.945,15.28,10.654,26.56a1.14,1.14,0,1,1-1.026-2.036l22.29-11.28a2.29,2.29,0,0,1,2.046,0l22.3,11.281a1.14,1.14,0,0,1-.512,2.157Z" transform="translate(0.561)" fill="#e69b45"/>
+      <path id="Trazado_1000046" data-name="Trazado 1000046" d="M60.871,55.28H6.14a1.14,1.14,0,0,1,0-2.28H60.871a1.14,1.14,0,1,1,0,2.28Z" transform="translate(0 5.609)" fill="#9ebbce"/>
+    </g>
+  </g>
+</svg>
