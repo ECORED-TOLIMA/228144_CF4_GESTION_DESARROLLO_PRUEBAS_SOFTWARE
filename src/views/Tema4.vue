@@ -94,7 +94,7 @@
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 12.
+          h5 Tabla 13.
           span Ejemplo matriz de requisitos
         .tabla-a.color-acento-contenido
           table

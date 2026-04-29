@@ -21,7 +21,7 @@
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 13.
+          h5 Tabla 14.
           span Lista de chequeo sobre requisitos de calidad de <em>software</em>
         .tabla-a.color-acento-contenido
           table

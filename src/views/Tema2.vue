@@ -256,7 +256,7 @@
       .row.justify-content-center(titulo="Lenguaje natural estructurado")
         .col.col-12.order-lg-1.order-2
           p Usa plantillas y formatos predefinidos para garantizar uniformidad, trazabilidad y facilidad de revisión. Es la forma recomendada para documentar requisitos formalmente.
-          .row.justify-content-center.mb-0(data-aos="flip-up")
+          .row.justify-content-center.mb-0
             .col.col-lg-10.col-12
               .titulo-sexto.color-acento-contenido
                 h5 Tabla 3.
@@ -265,38 +265,38 @@
                 table
                   thead
                     tr
-                      th(data-aos="fade-down")(style= "width: 20%") Campo
-                      th(data-aos="fade-down")(style= "width: 40%") Descripción
-                      th(data-aos="fade-down")(style= "width: 40%") Ejemplo
+                      th(style= "width: 20%") Campo
+                      th(style= "width: 40%") Descripción
+                      th(style= "width: 40%") Ejemplo
                   tbody
                     tr
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") ID del Requisito.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") Identificador único del requisito.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") REQ-FUN-001.
+                      td(style="background-color: #F6F6F6") ID del Requisito.
+                      td(style="background-color: #F6F6F6") Identificador único del requisito.
+                      td(style="background-color: #F6F6F6") REQ-FUN-001.
                     tr
-                      td(data-aos="fade-down")(style="background-color: #FFF") Nombre.
-                      td(data-aos="fade-down")(style="background-color: #FFF") Título corto y descriptivo.
-                      td(data-aos="fade-down")(style="background-color: #FFF") Inicio de sesión de usuario.
+                      td(style="background-color: #FFF") Nombre.
+                      td(style="background-color: #FFF") Título corto y descriptivo.
+                      td(style="background-color: #FFF") Inicio de sesión de usuario.
                     tr
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") Descripción.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") Enunciado completo del requisito.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") El sistema debe permitir al usuario autenticarse con correo electrónico y contraseña.
+                      td(style="background-color: #F6F6F6") Descripción.
+                      td(style="background-color: #F6F6F6") Enunciado completo del requisito.
+                      td(style="background-color: #F6F6F6") El sistema debe permitir al usuario autenticarse con correo electrónico y contraseña.
                     tr
-                      td(data-aos="fade-down")(style="background-color: #FFF") Prioridad.
-                      td(data-aos="fade-down")(style="background-color: #FFF") Nivel de importancia del requisito.
-                      td(data-aos="fade-down")(style="background-color: #FFF") Alta.
+                      td(style="background-color: #FFF") Prioridad.
+                      td(style="background-color: #FFF") Nivel de importancia del requisito.
+                      td(style="background-color: #FFF") Alta.
                     tr
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") Criterio de aceptación.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") Cómo se verifica que el requisito esta cumplido.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") El usuario puede ingresar al sistema en menos de 3 intentos.
+                      td(style="background-color: #F6F6F6") Criterio de aceptación.
+                      td(style="background-color: #F6F6F6") Cómo se verifica que el requisito esta cumplido.
+                      td(style="background-color: #F6F6F6") El usuario puede ingresar al sistema en menos de 3 intentos.
                     tr
-                      td(data-aos="fade-down")(style="background-color: #FFF") Stakeholder.
-                      td(data-aos="fade-down")(style="background-color: #FFF") Quién solicitó o se ve afectado por el requisito.
-                      td(data-aos="fade-down")(style="background-color: #FFF") Usuarios registrados, equipo de seguridad.
+                      td(style="background-color: #FFF") Stakeholder.
+                      td(style="background-color: #FFF") Quién solicitó o se ve afectado por el requisito.
+                      td(style="background-color: #FFF") Usuarios registrados, equipo de seguridad.
                     tr
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") Fuente.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") De dónde surgió el requisito.
-                      td(data-aos="fade-down")(style="background-color: #F6F6F6") Entrevista con el cliente - Acta 001.
+                      td(style="background-color: #F6F6F6") Fuente.
+                      td(style="background-color: #F6F6F6") De dónde surgió el requisito.
+                      td(style="background-color: #F6F6F6") Entrevista con el cliente - Acta 001.
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.C01.color-primario.p-4
@@ -947,6 +947,9 @@
     p.mb-4.text-center(data-aos="fade-down") A continuación, un ejemplo de este diagrama:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-10.col-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 8.
+          span Ejemplo diagrama de secuencia - Búsqueda y préstamo de libro
         .tabla-a.color-primario
           table
             colgroup
@@ -1051,7 +1054,7 @@
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 8.
+          h5 Tabla 9.
           span Comparación modelos conceptuales
         .tabla-a.color-acento-contenido
           table
@@ -1095,7 +1098,7 @@
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 9.
+          h5 Tabla 10.
           span Herramientas para crear modelos conceptuales
         .tabla-a.color-acento-contenido
           table
@@ -1157,7 +1160,7 @@
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 10.
+          h5 Tabla 11.
           span Combinaciones híbridas
         .tabla-a.color-acento-contenido
           table
@@ -1197,7 +1200,7 @@
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col.col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 11.
+          h5 Tabla 12.
           span Comparación de enfoques de documentación de requisitos
         .tabla-a.color-acento-contenido
           table
