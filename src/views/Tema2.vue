@@ -33,7 +33,7 @@
                         h4 Pódcast. Lenguaje natural.
                       TarjetaAudio.color-acento-botones.mb-3(
                       texto="Pódcast"
-                      :audio="require('@/assets/curso/audio/Podcast_CF02_33110233.mp3')"
+                      :audio="require('@/assets/curso/audio/Podcast_CF04_228144.mp3')"
                       @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
                       .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
