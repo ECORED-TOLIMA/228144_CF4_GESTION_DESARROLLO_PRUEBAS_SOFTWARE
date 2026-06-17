@@ -75,7 +75,7 @@
           .row
             .col.col-auto.mb-3
               .tarjeta.tarjeta--blanca.px-3.py-2
-                p.mb-0.text-bold(data-aos="fade-down") Ejemplo practico
+                p.mb-0.text-bold(data-aos="fade-down") Ejemplo práctico
             .col.col-12.mb-3
               p.mb-0(data-aos="fade-down") Un cliente le dice al ingeniero de requisitos:
             .col.col-12.mb-3
@@ -318,7 +318,7 @@
           .tarjeta.tarjeta--C01(style= "width: 100%")
             .p-4(data-aos="fade-down")
               h5.text-center Preguntas abiertas
-              p.mb-0.text-center ¿Que funciones debe tener el sistema? 
+              p.mb-0.text-center ¿Qué funciones debe tener el sistema? 
               p.text-center ¿Qué problemas resuelve?
       .col.col-lg-4.col-12.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
         .tarjeta-avatar
@@ -334,7 +334,7 @@
           .tarjeta.tarjeta--C01(style= "width: 100%")
             .p-4(data-aos="fade-down")
               h5.text-center Preguntas de confirmación
-              p.text-center  Se entiendo que el sistema debe... ¿Es correcto?
+              p.text-center  Se entiende que el sistema debe... ¿Es correcto?
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .row.align-items-center.mb-4(data-aos="flip-down")
@@ -400,13 +400,13 @@
                   p Debe ser posible demostrar mediante pruebas que el requisito ha sido implementado correctamente. Pregunta clave:
                   .col.col-12
                     .cajon.cajon.C04.px-3.py-2
-                      h5.text-center.mb-0 ¿Como saber que el sistema cumple este requisito?
+                      h5.text-center.mb-0 ¿Cómo saber que el sistema cumple este requisito?
               .tarjeta.tarjeta--C05.p-4(titulo="Trazabilidad")
                 .row.justify-content-center
                   p Debe poderse rastrear el origen del requisito (a quién lo solicitó y por qué) y su implementación en el código. Pregunta clave:
                   .col.col-12
                     .cajon.cajon.C04.px-3.py-2
-                      h5.text-center.mb-0 ¿De dónde vino este requisito y como se implementó?
+                      h5.text-center.mb-0 ¿De dónde vino este requisito y cómo se implementó?
           .col-lg-4.col-sm-4.col-10.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema2/img18.jpg', alt='Imagen decorativa')
@@ -428,7 +428,7 @@
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Modelos conceptuales
-    p(data-aos="fade-down") Son representaciones graficas o formales que permiten describir, analizar y comunicar los requisitos de un sistema de <em>software</em> de forma visual y estructurada. A diferencia del lenguaje natural, que usa texto libre, los modelos conceptuales utilizan notaciones estandarizadas con símbolos, formas y conectores que tienen significados precisos y acordados por la industria. Su propósito principal es eliminar la ambigüedad del lenguaje natural, facilitar la comunicación técnica entre equipos y servir como base para el diseño e implementación del sistema.
+    p(data-aos="fade-down") Son representaciones gráficas o formales que permiten describir, analizar y comunicar los requisitos de un sistema de <em>software</em> de forma visual y estructurada. A diferencia del lenguaje natural, que usa texto libre, los modelos conceptuales utilizan notaciones estandarizadas con símbolos, formas y conectores que tienen significados precisos y acordados por la industria. Su propósito principal es eliminar la ambigüedad del lenguaje natural, facilitar la comunicación técnica entre equipos y servir como base para el diseño e implementación del sistema.
     p.mb-4(data-aos="fade-down") Las características de un buen modelo conceptual son:
     .row.mb-4(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
@@ -623,7 +623,7 @@
             .col.col-12.mb-3
               .cajon.cajon.C04.p-4
                 p.mb-0(data-aos="fade-down") Texto en lenguaje natural:
-                p.text-bold.mb-0 "Los estudiantes pueden buscar libros y reservarlos si están disponibles. Para reservar, el sistema verifica primero si el estudiante tiene prestamos vencidos".
+                p.text-bold.mb-0 "Los estudiantes pueden buscar libros y reservarlos si están disponibles. Para reservar, el sistema verifica primero si el estudiante tiene préstamos vencidos".
             .col.col-12.mb-0
               p.mb-0(data-aos="fade-down") Extracción:
     .row.mb-4(data-aos="flip-up")
@@ -650,13 +650,13 @@
           .col-5
             img(src='@/assets/curso/tema2/img38.svg' alt='AvatarTop')
         h4.text-center Caso de uso 3
-        p.text-center(data-aos="fade-down") Verificar prestamos vencidos.
+        p.text-center(data-aos="fade-down") Verificar préstamos vencidos.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/tema2/img39.svg' alt='AvatarTop')
         h4.text-center Relación:
-        p.text-center(data-aos="fade-down") “reservar libro” &lt;&lt;include&gt;&gt; “verificar prestamos vencidos”.
+        p.text-center(data-aos="fade-down") “reservar libro” &lt;&lt;include&gt;&gt; “verificar préstamos vencidos”.
     .row.justify-content-center.mb-4
       .col.col-12
         .row.align-items-center(data-aos="flip-down")
@@ -682,7 +682,7 @@
                 th(data-aos="fade-down")(style= "width: 40%") Uso
             tbody
               tr
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Ovalo / capsula
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Óvalo / capsula
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Inicio / fin (terminal)
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Marca el punto de inicio o finalización del proceso. Siempre hay uno de inicio y al menos uno de fin.
               tr
@@ -691,7 +691,7 @@
                 td(data-aos="fade-down") Representa una tarea, operación o acción que se ejecuta. Ejemplo: “registrar usuario”, “calcular total”.
               tr
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Rombo / diamante
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") decisión
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Decisión
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Representa un punto de decisión con dos o más caminos posibles. Generalmente tiene salidas sí/no o verdadero/falso.
               tr
                 td(data-aos="fade-down") Paralelogramo
@@ -705,7 +705,7 @@
                 td(data-aos="fade-down") Rectángulo doble borde
                 td(data-aos="fade-down") Subproceso
                 td(data-aos="fade-down") Indica que ese paso llama a otro proceso definido en un diagrama separado.
-    p.text-center.mb-4(data-aos="fade-down") El siguiente ejemplo de diagrama representa un el flujo mediante unos pasos secuenciales:
+    p.text-center.mb-4(data-aos="fade-down") El siguiente ejemplo representa el flujo mediante unos pasos secuenciales:
     .row.justify-content-center.mb-4
       .col.col-lg-8.col-12
         .row.justify-content-center.align-items-center.g-0
@@ -725,11 +725,11 @@
             .cajon.cajon.py-2.px-3(style="background-color: #F1E2FF")
               p.text-center.mb-0   SI v  /  NO -->  SI: continuar | NO: notificar no disponible -> FIN
             .cajon.cajon.py-2.px-3(style="background-color: #7DBFFF")
-              p.text-center.mb-0 [ PROCESO ]  Verificar si el estudiante tiene prestamos vencidos
+              p.text-center.mb-0 [ PROCESO ]  Verificar si el estudiante tiene préstamos vencidos
             .cajon.cajon.py-2.px-3(style="background-color: #DFEFFF")
               p.text-center.mb-0   v    
             .cajon.cajon.py-2.px-3(style="background-color: #CF9EFF")
-              p.text-center.mb-0 < DECISION >  Tiene prestamos vencidos?
+              p.text-center.mb-0 < DECISION >  Tiene préstamos vencidos?
             .cajon.cajon.py-2.px-3(style="background-color: #F1E2FF")
               p.text-center.mb-0   NO v  /  SI -->  NO: continuar | SI: bloquear solicitud -> FIN
             .cajon.cajon.py-2.px-3(style="background-color: #7DBFFF")

@@ -204,7 +204,7 @@ export default {
         'Nivel de detalle de requisitos muy generales (baja granularidad), versus requisitos muy específicos (alta granularidad).',
     },
     {
-      termino: '<em>Scrum</em>',
+      termino: 'Scrum',
       significado:
         '<em>Framework</em> ágil para gestión de proyectos que usa historias de usuario, sprints iterativos y reuniones de retroalimentación regular.',
     },
@@ -214,7 +214,7 @@ export default {
         'Cualquier persona o grupo con interés en el proyecto, incluyendo cliente, usuarios finales, desarrolladores, managers, reguladores.',
     },
     {
-      termino: '<em>Waterfall</em>',
+      termino: 'Waterfall',
       significado:
         'Modelo tradicional de desarrollo de <em>software</em> donde cada fase (requisitos, diseño, implementación, pruebas) se completa antes de la siguiente.',
     },
@@ -237,7 +237,7 @@ export default {
     },
     {
       referencia:
-        'IEEE. (2017). IEEE 830-1998 IEEE <em>Recommended Practice for <em>software</em> Requirements Specifications</em>. Institute of Electrica and Electronics Engineers.',
+        'IEEE. (2017). IEEE 830-1998 IEEE <em>Recommended Practice for <em>software</em> Requirements Specifications</em>. Institute of Electrical and Electronics Engineers .',
       link: '',
     },
     {
@@ -258,7 +258,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

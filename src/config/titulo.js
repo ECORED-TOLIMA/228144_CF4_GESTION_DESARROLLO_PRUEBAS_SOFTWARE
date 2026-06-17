@@ -1,2 +1,2 @@
 module.exports =
-  'Requisitos de <em>software</em>: documentación, validación y versionamiento'
+  'Requisitos de 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦: documentación, validación y versionamiento'
