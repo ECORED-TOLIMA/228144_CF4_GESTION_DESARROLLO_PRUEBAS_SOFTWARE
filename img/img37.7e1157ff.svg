@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="Grupo_1182459" data-name="Grupo 1182459" transform="translate(-767.711 -10958)">
+    <path id="Trazado_999713" data-name="Trazado 999713" d="M0,0H65V65H0Z" transform="translate(767.711 10958)" fill="#19538d"/>
+    <g id="Grupo_1180181" data-name="Grupo 1180181" transform="translate(0 -2.348)">
+      <g id="gestion-del-tiempo" transform="translate(826.768 11184.166)">
+        <path id="Trazado_1000374" data-name="Trazado 1000374" d="M52.193,292.812l-7.274,7.274-14.5,0V297.4H42.53a5.373,5.373,0,0,0-5.371-5.371H26.15l-9.171,7.828L24.6,311.009l4.31-2.864H45.8l13.989-15.332a5.374,5.374,0,0,0-7.6,0Z" transform="translate(-65.711 -479)" fill="#fff"/>
+      </g>
+      <path id="libro_1_" data-name="libro (1)" d="M19.865,8.629h8.16a.913.913,0,0,1,.916.916v1.374a.914.914,0,0,1-.916.917h-8.16a.914.914,0,0,1-.914-.917V9.545A.913.913,0,0,1,19.865,8.629ZM17.509,5.4a2.366,2.366,0,0,0-2.361,2.381V25.214A2.366,2.366,0,0,0,17.509,27.6h13.1c1.739,0,1.739-2.845,0-2.845H19.562a1.737,1.737,0,0,1,0-3.454H29.907c1.282,0,2.024-.675,2.024-1.8V7.781A2.366,2.366,0,0,0,29.57,5.4Z" transform="translate(776.354 10971.14) rotate(-11)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
