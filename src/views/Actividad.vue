@@ -73,7 +73,7 @@ export default {
             { id: 'd', texto: 'Entre el 90 % y el 95 %.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Muy bien! La investigación industrial muestra consistentemente que el 70-80 % de los defectos en <em>software</em> se originan en errores de requisitos. Esto resalta la importancia crítica de documentar bien los requisitos desde el inicio del proyecto.',
+            '¡Muy bien! La investigación industrial muestra consistentemente que el 70-80 % de los defectos en software se originan en errores de requisitos. Esto resalta la importancia crítica de documentar bien los requisitos desde el inicio del proyecto.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -126,7 +126,7 @@ export default {
             { id: 'd', texto: 'IEEE 9126.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El IEEE 830 (ahora IEEE 29148) proporciona la estructura y directrices recomendadas para la especificación de requisitos de <em>software</em> (SRS). Es el estándar de referencia para documentación formal de requisitos a nivel internacional.',
+            '¡Correcto! El IEEE 830 (ahora IEEE 29148) proporciona la estructura y directrices recomendadas para la especificación de requisitos de software (SRS). Es el estándar de referencia para documentación formal de requisitos a nivel internacional.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -194,7 +194,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El sistema debe ser rápido, es un requisito ambiguo e inverificable porque no tiene un <em>baseline</em> claro (¿rápido en cuánto tiempo?, ¿bajo qué condiciones?). Un buen requisito siempre incluye métricas concretas y condiciones de medición.',
+            '¡Correcto! El sistema debe ser rápido, es un requisito ambiguo e inverificable porque no tiene un baseline claro (¿rápido en cuánto tiempo?, ¿bajo qué condiciones?). Un buen requisito siempre incluye métricas concretas y condiciones de medición.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -228,7 +228,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Muy bien! El <em>stickman</em> o figura de palito representa a un actor: una entidad externa que interactúa con el sistema.',
+            '¡Muy bien! El stickman o figura de palito representa a un actor: una entidad externa que interactúa con el sistema.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -639,7 +639,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Felicitaciones! Ha superado la actividad y demuestra sólidos conocimientos sobre la ingeniería de requisitos y la documentación de <em>software</em>.',
+        '¡Felicitaciones! Ha superado la actividad y demuestra sólidos conocimientos sobre la ingeniería de requisitos y la documentación de software.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
